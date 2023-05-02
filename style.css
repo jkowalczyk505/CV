@@ -1,0 +1,158 @@
+body {
+  background: #f5f7fa;
+  font-family: "Montserrat", sans-serif;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  width: 1200px;
+  margin: 0 auto;
+  background: #ffffff;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+aside {
+  width: 370px;
+  background: #1e2939;
+}
+
+.cv-photo {
+  margin-top: 25px;
+}
+
+.header-secondary {
+  color: #ffffff;
+  font-size: 22px;
+}
+
+.contact-links {
+  color: #aaaaaa;
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 3px;
+}
+
+.TE {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.list-secondary {
+  color: #fb6d3a;
+  padding-left: 20px;
+}
+
+.item-secondary {
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.contact-block {
+  margin: 40px 114px 30px 40px;
+}
+
+.tech-skills-block {
+  margin: 0px 0px 10px 40px;
+  width: 260px;
+}
+
+.interested-block {
+  margin: 0px 78px 30px 40px;
+}
+
+.characteristic-block {
+  margin: 0px 78px 10px 40px;
+}
+
+main {
+  padding-left: 88px;
+  padding-top: 102px;
+  padding-bottom: 107px;
+  padding-right: 217px;
+}
+
+.main-description {
+  width: 400px;
+}
+
+.proffesional-title {
+  font-size: 14px;
+  line-height: 17px;
+  margin-bottom: 19px;
+}
+
+h1 {
+  font-size: 45px;
+  line-height: 55px;
+  margin-bottom: 24px;
+}
+
+.description {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #595959;
+  margin-bottom: 50px;
+}
+
+.experience-block {
+  margin-bottom: 50px;
+}
+
+.projects-block {
+  width: 485px;
+  margin-bottom: 51px;
+}
+
+.header-primary {
+  font-size: 22px;
+  line-height: 27px;
+}
+
+
+.highlighted {
+  color: #fb6d3a;
+  font-weight: 700;
+}
+
+.date-place {
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+  margin-bottom: 8px;
+}
+
+.primary-list {
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  padding-left: 0px;
+  list-style-position: inside;
+}
+
+.education-block {
+  width: 242px;
+}
+
+.school-block {
+  width: 370px;
+  margin-top: 35px;
+}
+
+.university-name {
+  font-size: 16px;
+  line-height: 20px;
+  color: #fb6d3a;
+  margin-top: 12px;
+  margin-bottom: 11px;
+}
+
+.field-study {
+  font-size: 14px;
+  line-height: 17px;
+  margin-bottom: 12px;
+}
